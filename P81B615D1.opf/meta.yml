@@ -1,0 +1,13 @@
+id: P81B615D1
+initial_creation_type: input
+source_metadata:
+  title: 'MSV 1,15: Śayanāsanavastu'
+  language: bo
+  volumes:
+    70aad85272f54e4db13dadbd3e795867:
+      title: Śayanāsanavastu
+      base_file: Śayanāsanavastu.txt
+      work_id: W72EB163E
+  chapter_to_tile: {}
+created_at: '2022-03-01T22:20:54.230019'
+last_modified_at: '2022-03-01T22:20:54.230025'
